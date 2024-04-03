@@ -1,21 +1,19 @@
-import pic2 from '../assests/pic2.jpg'
-
 export const data = [
 	{
 		title: 'What our clients say',
 		description:
 			'Our clients happily stay with our services for more several years now. See real reviews from our clients.',
-		image: {pic2},
+		image: '../assests/pic2.jpg',
 	},
 	{
 		title: 'Our security ',
 		description: 'Learn more about our security systems to make sure your data is always safe',
-		image: '/assets/pic3.jpg',
+		image: '../assets/pic3.jpg',
 	},
 	{
 		title: 'Our Team',
 		description: 'Our team consists of the best experts in the industry, learn about them',
-		image: './assets/pic4.jpg',
+		image: '../assets/pic4.jpg',
 	},
 	{
 		title: 'Our servers',
