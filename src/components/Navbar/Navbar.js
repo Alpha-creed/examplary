@@ -36,7 +36,7 @@ const Navbar = () => {
             <NavbarContainer>
                 <NavLogo to="/">
                     <NavIcon src={logo} alt="logo"/>
-                    Delta
+                    Baidi
                 </NavLogo>
                 <MobileIcon onClick={handleClick}>
                     {show ? <FaTimes/>:<CgMenuRight/>}
